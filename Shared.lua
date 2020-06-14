@@ -1,8 +1,3 @@
--- Simple block sstool and unluac --
-while(nil)do;local i={}if(i.i)then;i.i=(i.i(i))end --MCPBO™;end --MCPBO™
-
--- Super Block sstool Test --
-while(nil)do;for i=i,i do;local i={}if(i.i)then;i.i=i.i(i)end --MCPBO™;for ii=i.i,i.i,i.i do;local ii={}if(ii.i)then;ii.i=ii.i()end --MCPBO™;for iii=i,ii.i,i do;local iii={}if(iii.i)then;iii.i=iii.i(i)end --MCPBO™;for iiii=i,ii,iii.i do;local iiii={}if(iiii.i)then;iiii.i=iiii.i(i)end --MCPBO™;local iiii={}if(iiii.i)then;iiii.i=(iiii|iii|ii|i)(i)end --MCPBO™;end --MCPBO™;local iii={}if(iii.i)then;iii.i=(true|iii|ii|i)(i)end --MCPBO™;end --MCPBO™;local ii={}if(ii.i)then;ii.i=(true|false|ii|i)(i)end --MCPBO™;end --MCPBO™;local i={}if(i.i)then;i.i=(true|false|nil|i)(i)end --MCPBO™;return(true|false|nil)end --MCPBO™;return;end --MCPBO™
 -------------------------------------------------------------------------
 -- Type EXPIRED script will run .
 -------------------------------------------------------------------------
