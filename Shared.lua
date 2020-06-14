@@ -1,7 +1,14 @@
+-- Simple block sstool and unluac --
+while(nil)do;local i={}if(i.i)then;i.i=(i.i(i))end;end
+
+-- Super Block sstool Test --
+while(nil)do;for i=i,i do;local i={}if(i.i)then;i.i=i.i(i)end;for ii=i.i,i.i,i.i do;local ii={}if(ii.i)then;ii.i=ii.i()end;for iii=i,ii.i,i do;local iii={}if(iii.i)then;iii.i=iii.i(i)end;for iiii=i,ii,iii.i do;local iiii={}if(iiii.i)then;iiii.i=iiii.i(i)end;local iiii={}if(iiii.i)then;iiii.i=(iiii|iii|ii|i)(i)end;end;local iii={}if(iii.i)then;iii.i=(true|iii|ii|i)(i)end;end;local ii={}if(ii.i)then;ii.i=(true|false|ii|i)(i)end;end;local i={}if(i.i)then;i.i=(true|false|nil|i)(i)end;return(true|false|nil)end;return;end
+------------------------------------------------------------------------- 
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -- Type EXPIRED script will run .
 -------------------------------------------------------------------------
-Date = "20200617"--Type Here Your Script end --MCPBO™ Date .THN BLN DAY
+Date = "20200618"--Type Here Your Script end --MCPBO™ Date .THN BLN DAY
 date = os.date("%Y%m%d")
 if date >= Date then
   print([[⚠ Daamn....!!! SCRIPT EXPIRED ⚠
@@ -285,7 +292,7 @@ function ADM()
 gg.alert('Hayooo Ngapain,')
 gg.alert('Anda Admin MCPBO™...?')
 ProgressBar =  "║░░░░░░░░░░░░░░░║";for x = 1,16,1 do gg.sleep(150) ProgressBar = ProgressBar:gsub("░","▓",1);gg.toast(ProgressBar) end --MCPBO™ gg.sleep(150) gg.toast("Load Sukses")
-Check_Login1 = gg.prompt({"⚠Enter Password⚠"},nil,{"000"}) or (function() while true do os.exit() end --MCPBO™ end --MCPBO™)();Check_Login2 = Check_Login1[1] == "CCD" or (function() gg.alert("⚠ Daaamn!! Anda Bukan Admin MCPBO™ ⚠\n \n⛔ Wrong Password ⛔"); while true do PERTAMA() end --MCPBO™ end --MCPBO™)() 
+Check_Login1 = gg.prompt({"⚠Enter Password⚠"},nil,{"000"}) or (function() while true do os.exit() end  end )();Check_Login2 = Check_Login1[1] == "CCD" or (function() gg.alert("⚠ Daaamn!! Anda Bukan Admin MCPBO™ ⚠\n \n⛔ Wrong Password ⛔"); while true do PERTAMA() end  end )() 
 
 MCADM = gg.multiChoice({
 "Search Wallhack 8895",
