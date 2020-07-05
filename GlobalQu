@@ -1,0 +1,209 @@
+
+echo ""
+echo "╔══════════❖•ೋ° °ೋ•❖═══════════╗"
+echo " |     𝙿𝚄𝙱𝙶 𝙼𝙾𝙱𝙸𝙻𝙴 𝙶𝙻𝙾𝙱𝙰𝙻 -  𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™     |"
+echo "╚══════════❖•ೋ° °ೋ•❖═══════════╝"
+echo ""
+echo " • 𝙿𝚄𝙱𝙶 𝙼𝙾𝙱𝙸𝙻𝙴 𝙶𝙻𝙾𝙱𝙰𝙻 𝚂𝙴𝙰𝚂𝙾𝙽𝙴 𝟷𝟹                  "
+echo "                                                   "
+echo " • 𝚄𝚜𝚎𝚛 𝚁𝚘𝚘𝚝 𝙿𝚛𝚒𝚟𝚊𝚝𝚎 𝚅𝟿.𝟷"
+echo ""
+echo " • 𝙿𝚊𝚌𝚔𝚊𝚐𝚎  									:			𝚌𝚘𝚖.𝚝𝚎𝚗𝚌𝚎𝚗𝚝.𝚒𝚐                   "
+echo " • 𝙰𝚙𝚙 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 						:			0.18.0.12600        "
+echo " • 𝚂𝚘𝚞𝚛𝚌𝚎 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 			:			0.18.0.12630"
+echo "╔══════════════════════════════╗"
+echo " |✪ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 𝙱𝚢 :  𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™ - @𝚐𝙷𝚎𝚜𝚜𝚜_𝙱𝚘𝚢𝚜   |"
+echo "╚══════════════════════════════╝"
+echo ""
+sleep 3
+cp -R /storage/emulated/0/AKU_PRIVATE/Data/game_patch_0.18.0.12610.pak /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12610.pak &> /dev/null
+cp -R /storage/emulated/0/AKU_PRIVATE/Data/game_patch_0.18.0.12615.pak /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12615.pak &> /dev/null
+cp -R /storage/emulated/0/AKU_PRIVATE/Data/game_patch_0.18.0.12618.pak /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12618.pak &> /dev/null
+cp -R /storage/emulated/0/AKU_PRIVATE/Data/game_patch_0.18.0.12626.pak /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12626.pak &> /dev/null
+#
+echo "[version]
+[version]
+appversion=0.18.0.12600
+srcversion=0.18.0..13800..
+firstversion=0.18.0..13800..
+bootnum=2
+
+
+" &> /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+#
+chmod -R 004 /data/data/com.tencent.ig/lib/libtersafe.so
+#
+echo -n "ʟᴏᴀᴅɪɴɢ" ; sleep .1 ; echo -n ".." ; sleep .2 ; echo -n "." ; sleep .2 ; echo -n ".." ; sleep .1
+echo ""
+echo -n "" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ;echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ;echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ;echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ;echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ;echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ; echo -n "█" ; sleep .1 ;echo -n "█" ; sleep .1 ; echo -n "█" ; echo -n "█" ; echo -n "█" ; sleep .1 ; 
+echo ""
+echo ""
+echo "╔══════════════════════════════╗"
+echo "|✪ 𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚜𝚒 𝙵𝚞𝚕𝚕 𝙳𝚊𝚝𝚊 𝙼𝙲𝙿𝙱𝙾™ 𝙳𝚘𝚗𝚎!           "
+echo "╚══════════════════════════════╝"
+echo ""
+echo ""
+echo "╔══════════════════════════════╗"
+echo "|✪ 𝙱𝚕𝚘𝚌𝚔𝚒𝚗𝚐 𝙰𝚋𝚗𝚘𝚛𝚖𝚊𝚕 - 𝚂𝚎𝚛𝚟𝚎𝚛𝚜 "
+echo "╚══════════════════════════════╝"
+echo ""
+cat << EOF
++--------------------------------------------------------------+
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+|  𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™ ⚔️ CO 𝚅𝟿.𝟷  |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
++--------------------------------------------------------------+
+EOF
+sleep 1
+echo 正在获取动态密匙……
+sleep 1
+echo 账号:$UT$IP$UT
+sleep 1
+echo 自动生成防封密匙…….
+sleep 2
+echo 密匙:$IT
+sleep 1
+
+echo 已将"$IP"修改为:127.0.0.1
+iptables -I INPUT -s 0.0.0.0 receiver.sg.tdm.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s 0.0.0.0 napubgm.broker.tplay.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s 0.0.0.0 idcconfig.gcloud.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s 0.0.0.0 vmp.qq.com -j DROP &>/dev/null
+iptables -I INPUT -s 0.0.0.0 cdn.wetest.qq.com -j DROP &>/dev/null
+echo ----------------
+echo 正在更改基址
+sleep 1
+printf "%-10s %-8s %-8s\n" 31 32 37 2E 30 2E 30 2E 
+printf "%-10s %-8s %-8s\n" 31 20 20 20 20 20 20 20 
+sleep 1
+printf "%-10s %-8s %-8s\n" 6C 6F 63 61 6C 68 6F 73 
+printf "%-10s %-8s %-8s\n" 74 0A 3A 3A 31 20 20 20 
+printf "%-10s %-8s %-8s\n" 20 20 20 20 20 20 20 20 
+printf "%-14s %-8s %-8s\n" 20 20 69 70 36 2D 6C 6F 
+printf "%-10s %-8s %-8s\n" 63 61 6C 68 6F 73 74 0A 
+sleep 1
+printf "%-10s %-8s %-8s\n" 31 30 2E 38 2E 30 2E 36 
+printf "%-10s %-8s %-8s\n" 20 61 70 6D 2E 77 65 74 
+printf "%-10s %-8s %-8s\n" 65 73 74 2E 71 71 2E 63 
+sleep 1
+echo -----------------
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity;
+sleep 40
+
+PACKAGE='com.tencent.ig'
+while [ $(pidof $PACKAGE) ]
+do
+c=$((c+1))
+echo " "
+echo "  ╔─━━━━━━━━━━░🇮🇩░━━━━━━━━━━─╗"
+echo "   ╭────────────────────────╮"
+echo "   🚀 𝙰𝚝𝚝𝚊𝚌𝚔 𝚂𝚎𝚛𝚟𝚎𝚛𝚜   $c              ░🇮🇩░            "               
+echo "   ╰────────────────────────╯ "
+echo "  ╚─━━━━━━━━━━░🇮🇩░━━━━━━━━━━─╝"
+echo " "
+now=$(date +"%T")
+echo " "
+echo "  ╔─━━━━━━━━━━░🇮🇩░━━━━━━━━━━─╗"
+echo "   ╭────────────────────────╮"
+echo "   🚀 𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™  ⚔️            CO 𝚅𝟿.𝟷  "            
+echo "   ╰────────────────────────╯ "
+echo "  ╚─━━━━━━━━━━░🇮🇩░━━━━━━━━━━─╝"
+echo " "
+sleep 15
+if [ ! $(pidof $PACKAGE) ]; then
+break
+fi
+sleep 1
+done
+
+
+
+am start -n bin.mt.plus/bin.mt.plus.Main
+echo 稳定已注入，请等待注入成功……
+sleep 1s
+	ZZ=127.0.0.1
+	S=$(date +%Y年%m月%d日%T)
+	sleep 1
+echo "当前时间: $S"
+sleep 1
+echo 正在检测防封是否开启
+sleep 1
+echo 正在检测本机IP……
+sleep 1
+echo "本机IP为:$ZZ"
+sleep 1
+echo 镜像防封已注入
+echo 防封开启成功\n请开始奔放吧
+printf  "%-10s\n%30" $S
+sleep 1
+echo -----------------
+echo 正在删除残渣
+sleep 2
+
+echo 残渣已清理
+sleep 1
+cat << EOF
++--------------------------------------------------------------+
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+|  𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™ ⚔️ CO 𝚅𝟿.𝟷  |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
+| === 您正在使用   防追封程序  === |
++--------------------------------------------------------------+
+EOF
+sleep 1
+echo 现在可以登录了哟 防封数据后台运行呢
+echo 防封数据5秒后运行 尽快返回游戏 
+echo 不需要用的时候 请关掉mt管理器
+sleep 5
+
+
+echo 当前时间为 
+
+echo "[version]
+appversion=0.18.0.12600
+srcversion=0.18.0.12630
+
+
+" &> /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12610.pak &> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12615.pak &> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12618.pak &> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.18.0.12626.pak &> /dev/null
+#
+ttime=`date +"%Y-%m-%d %H:%M:%S"`
+chmod -R 004 /data/data/com.tencent.ig/lib/libtersafe.so
+echo $ttime
+echo 防封程序持续为您服务请保持MT后台运行
+echo ""
+echo ""
+echo ""
+echo "                    𝙶𝚊𝚖𝚎 𝙾𝚟𝚎𝚛 !!!"
+echo ""
+echo ""
+sleep 1
+echo ""
+killall com.termux &>/dev/null
+echo "╔══════════════════════════════╗"
+echo "| © 𝙲𝚘𝚍𝚒𝚗𝚐 𝙱𝚢 :                                  |"
+echo "╚══════════════════════════════╝"
+echo "• 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 𝙱𝚢 - @𝚐𝙷𝚎𝚜𝚜𝚜_𝙱𝚘𝚢𝚜"
+echo ""      
+echo ""
+echo ""
+echo "          ░🇮🇩░𝙼𝚊𝚍𝚎 𝙸𝚗 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊░🇮🇩░"
+echo "             ✰||| 𝙼𝚎𝚝𝚛𝚘𝙲𝚑𝚎𝚊𝚝_𝙿𝙱𝙾™  |||✰    "
+echo ""
+echo ""      
+echo ""
+echo ""
+echo ""
+echo ""
+
+
