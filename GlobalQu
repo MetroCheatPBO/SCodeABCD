@@ -23,8 +23,8 @@ cp -R /storage/emulated/0/AKU_PRIVATE/Data/game_patch_0.18.0.12626.pak /storage/
 echo "[version]
 [version]
 appversion=0.18.0.12600
-srcversion=0.18.0..13800..
-firstversion=0.18.0..13800..
+srcversion=0.18.0.13800
+firstversion=0.18.0.13800
 bootnum=2
 
 
